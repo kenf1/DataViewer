@@ -3,6 +3,7 @@ library(tidyverse)
 library(readxl)
 library(data.table)
 library(shiny)
+library(DT)
 
 #load backend
 source("functions.R")

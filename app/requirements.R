@@ -1,9 +1,10 @@
 #required packages
 req_pkg <- c(
-  "tidyverse",
+  # "tidyverse",
   "readxl",
   "data.table",
-  "shiny"
+  # "shiny",
+  "DT"
 )
 
 #install required packages

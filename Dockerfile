@@ -1,5 +1,5 @@
 #base img
-FROM rocker/shiny:4.2.2
+FROM rocker/shiny-verse:4.2.2
 
 #copy files + install req packages
 COPY ./app/* /root/shiny_app/
